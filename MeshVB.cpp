@@ -1,0 +1,6 @@
+// MeshVB.cpp: implementation of the CMeshVB class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "common.h"
+#include "stdafx.h"
